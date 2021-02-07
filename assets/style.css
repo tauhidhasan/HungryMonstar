@@ -20,9 +20,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* *******************
-* Search Bar Style
-**********************/
+/* Search Input Field Style */
 
 .input-form {
     display: -ms-flexbox;
